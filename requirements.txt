@@ -1,7 +1,7 @@
 astroid==1.6.5
 certifi==2018.4.16
 chardet==3.0.4
-Django==2.0.7
+Django==2.2.13
 django-redis==4.9.0
 django-simditor==0.0.10
 filetype==1.0.1
